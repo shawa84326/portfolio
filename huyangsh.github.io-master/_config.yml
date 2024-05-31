@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Yang Hu"
 title_separator          : "-"
-name                     : &name "Yang Hu"
-description              : &description "Yang's academic personal website"
-url                      : https://huyangsh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ankit Shaw"
+description              : &description "personal website"
+url                      : https://shawa84326.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huyangsh/huyangsh.github.io"
+repository               : "portfolio/shawa84326.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Hu (胡扬)"
+  name             : "Ankit Shaw"
   avatar           : "profile.jpg"
-  bio              : "G1 CS PhD Student @ SEAS, Harvard"
-  location         : "Boston, MA"
+  bio              : "MS (robotics) Student @ GIX, University of Washington"
+  location         : "Seattle, WA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=vijJOWwAAAAJ"
-  email            : "huyangshcn@gmail.com"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=vijJOWwAAAAJ"
+  email            : "ankit25@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "huyangsh"
+  github           : "shawa84326"
   google_plus      :
   keybase          :
   instagram        :
